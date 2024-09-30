@@ -1,3 +1,9 @@
+//Faculdade UNIFAN
+//Aluno: Carlos Eduardo Sousa Costa
+//Professor: Brenno
+//---------------------------------------------------------
+//Seja bem vindo ao programa: Quiz de capitais de 15 países
+//---------------------------------------------------------
 import java.util.Scanner;
 
 public class quiz {
