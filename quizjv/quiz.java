@@ -23,6 +23,8 @@ public class quiz {
             "11. Qual é a capital da Itália?\n a) Londres\n b) Berlim\n c) Paris\n d) Roma",
             "12. Qual é a capital de Portugal?\n a) Lisboa\n b) Porto\n c) Braga\n d) Goiânia",
             "13. Qual é a capital da Espanha?\n a) Madrid\n b) Buenos Aires\n c) Porto\n d) Barcelona",
+            "14. Qual é a capital da Angola?\n a) Luanda\n b) Braga\n c) Congo\n d) Nairóbi",
+            "15. Qual é a capital do Senegal?\n a) Nairóbi\n b) Braga\n c) Dakar\n d) Congo"
 
         };
 
