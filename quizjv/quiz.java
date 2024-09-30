@@ -17,7 +17,8 @@ public class quiz {
             "5. Qual é a capital da Holanda?\n a) Haarlem\n b) Amsterdã\n c) Moscou\n d) Berlim",
             "6. Qual é a capital da Alemanha?\n a) Berlim\n b) Londres\n c) Paris\n d) MSdrid",
             "7. Qual é a capital da Russía?\n a) Berlim\n b) Moscou\n c) Londres\n d) Tokyo",
-
+"8. Qual é a capital do Paraguai?\n a) Montevidéu\n b) Assunção\n c) Madrid\n d) El Salvador",
+            "9. Qual é a capital do Uruguai?\n a) Assunção\n b) América\n c) MOntevidéu\n d) Rio de Janeiro",
         };
 
         char[] answers = {'c', 'c', 'b', 'a', 'b', 'a', 'b', 'b', 'c', 'c','d','a','a','a','c'};
