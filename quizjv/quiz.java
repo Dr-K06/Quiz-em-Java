@@ -19,6 +19,8 @@ public class quiz {
             "7. Qual é a capital da Russía?\n a) Berlim\n b) Moscou\n c) Londres\n d) Tokyo",
             "8. Qual é a capital do Paraguai?\n a) Montevidéu\n b) Assunção\n c) Madrid\n d) El Salvador",
             "9. Qual é a capital do Uruguai?\n a) Assunção\n b) América\n c) MOntevidéu\n d) Rio de Janeiro",
+            "10. Qual é a capital do Canadá?\n a) Toronto\n b) Ohio\n c) Ottawa\n d)Londres",
+            "11. Qual é a capital da Itália?\n a) Londres\n b) Berlim\n c) Paris\n d) Roma",
         };
 
         char[] answers = {'c', 'c', 'b', 'a', 'b', 'a', 'b', 'b', 'c', 'c','d','a','a','a','c'};
