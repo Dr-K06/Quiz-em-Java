@@ -21,6 +21,9 @@ public class quiz {
             "9. Qual é a capital do Uruguai?\n a) Assunção\n b) América\n c) MOntevidéu\n d) Rio de Janeiro",
             "10. Qual é a capital do Canadá?\n a) Toronto\n b) Ohio\n c) Ottawa\n d)Londres",
             "11. Qual é a capital da Itália?\n a) Londres\n b) Berlim\n c) Paris\n d) Roma",
+            "12. Qual é a capital de Portugal?\n a) Lisboa\n b) Porto\n c) Braga\n d) Goiânia",
+            "13. Qual é a capital da Espanha?\n a) Madrid\n b) Buenos Aires\n c) Porto\n d) Barcelona",
+
         };
 
         char[] answers = {'c', 'c', 'b', 'a', 'b', 'a', 'b', 'b', 'c', 'c','d','a','a','a','c'};
